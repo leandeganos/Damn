@@ -1,4 +1,4 @@
-        $( document ).ready(function() {
+﻿sasa        $( document ).ready(function() {
 
         var value = 0;
         
